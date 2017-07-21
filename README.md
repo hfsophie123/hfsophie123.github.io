@@ -1,11 +1,11 @@
 ## Welcome to 寒方芳的页面
 
 学习计划
-Java基础——根据http://www.runoob.com/java（1-2weeks 7月17到7月28）
+-Java基础——根据http://www.runoob.com/java（1-2weeks 7月17到7月28）
 	Vedio<北京圣思园Java培训教学视频(Java.SE&XML&CVS&OOAD和UML)[ED2000.COM]
 	张龙 JavaWeb
 	
-（8月7日-8月31日）4weeks
+-（8月7日-8月31日）4weeks
 JavaWeb基础——实现一个小型网站，数据库管理系统等
 数据库的配置管理和使用。——实现一个小型网站，数据库管理系统等_增删改查等活动。
 前段基础 JQuery等 JS
