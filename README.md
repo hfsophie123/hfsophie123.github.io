@@ -15,6 +15,9 @@
 
 
 ```
+![](http://www.freepngimg.com/download/tropical_fish/3-2-fish-png-2.png)
+> For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
